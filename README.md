@@ -1,16 +1,57 @@
-## Hi there 👋
+Olá, eu sou o Felipe 👋
 
-<!--
-**Felipe1357/Felipe1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Focado em Front-end e JavaScript  
+📍 Fortaleza - CE, Brasil  
+📚 Atualmente aprendendo JavaScript e desenvolvimento web
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Sobre mim
+
+Sou estudante de ADS apaixonado por tecnologia e desenvolvimento web.
+Atualmente estou focado em aprender JavaScript, HTML e CSS,
+criando projetos para evoluir minhas habilidades práticas.
+
+
+🎯 Objetivo: conquistar minha primeira oportunidade na área de tecnologia.
+
+
+🚀 Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
+
+
+📊 Estatísticas
+
+<div>
+  <a href="https://github.com/SEU-USUARIO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
+🔥 Projetos
+
+🎮 Quiz de JavaScript
+Projeto de quiz feito em JavaScript no terminal.
+
+🔗 Link: https://github.com/Felipe1357/javascript-quiz
+
+
+🌐 Landing Page
+Página desenvolvida utilizando HTML e CSS.
+
+🔗 Link: https://github.com/Felipe1357/tecboard-landing-page
+
+
+
+🌎 Redes sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Felipe-Negreiros)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe1357)
