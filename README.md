@@ -1,4 +1,4 @@
-Olá, eu sou o Felipe 👋
+🚀 Olá, eu sou o Felipe
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🚀 Focado em Front-end e JavaScript  
@@ -30,7 +30,7 @@ criando projetos para evoluir minhas habilidades práticas.
 📊 Estatísticas
 
 <div>
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/Felipe1357">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
