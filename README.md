@@ -31,7 +31,7 @@ criando projetos para evoluir minhas habilidades práticas.
 
 <div>
   <a href="https://github.com/Felipe1357">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Felipe1357&theme=tokyonight"/>/api?username=Felipe1357&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Felipe1357&theme=tokyonight"/>
 </div>
 
 
