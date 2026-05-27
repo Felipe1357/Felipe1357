@@ -31,8 +31,7 @@ criando projetos para evoluir minhas habilidades práticas.
 
 <div>
   <a href="https://github.com/Felipe1357">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe1357&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe1357&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Felipe1357&theme=tokyonight"/>/api?username=Felipe1357&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -53,5 +52,5 @@ Página desenvolvida utilizando HTML e CSS.
 
 🌎 Redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Felipe-Negreiros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-negreiros-56a908158)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe1357)
