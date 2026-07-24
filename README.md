@@ -1,15 +1,15 @@
 🚀 Olá, eu sou o Felipe
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Focado em Front-end e JavaScript  
+🚀 Focado em Front-end com JavaScript e Back-end com Python  
 📍 Fortaleza - CE, Brasil  
-📚 Atualmente aprendendo JavaScript e desenvolvimento web
+📚 Atualmente aprendendo Python e Orientação a Objetos
 
 
 👨‍💻 Sobre mim
 
-Sou estudante de ADS apaixonado por tecnologia e desenvolvimento web.
-Atualmente estou focado em aprender JavaScript, HTML e CSS,
+Sou estudante de ADS apaixonado por tecnologia e programação.
+Atualmente estou focado em aprender Python,
 criando projetos para evoluir minhas habilidades práticas.
 
 
